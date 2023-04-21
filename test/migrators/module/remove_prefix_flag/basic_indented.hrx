@@ -1,5 +1,5 @@
 <==> arguments
---remove-prefix=lib-
+--remove-prefix=lib- entrypoint.sass
 
 <==> README.md
 This test should be kept in sync with basic.hrx.

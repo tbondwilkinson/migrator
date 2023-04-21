@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --forward=all
+--migrate-deps --forward=all entrypoint.scss
 
 <==> input/entrypoint.scss
 @import "library";

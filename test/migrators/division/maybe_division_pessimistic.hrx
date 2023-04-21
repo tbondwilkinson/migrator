@@ -1,5 +1,5 @@
 <==> arguments
---pessimistic
+--pessimistic entrypoint.scss
 
 <==> input/entrypoint.scss
 a {

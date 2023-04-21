@@ -1,5 +1,5 @@
 <==> arguments
---remove-prefix=lib-
+--remove-prefix=lib- entrypoint.scss
 
 <==> README
 Tests that references to a renamed member that appear earlier in the stylesheet

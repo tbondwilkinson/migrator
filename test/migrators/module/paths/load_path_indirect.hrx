@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --load-path load_path
+--migrate-deps --load-path load_path entrypoint.scss
 
 <==> README
 This test confirms that the URLs of extra `@use` rules can be written relative

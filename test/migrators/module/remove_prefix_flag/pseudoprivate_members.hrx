@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --forward=all --remove-prefix=lib-
+--migrate-deps --forward=all --remove-prefix=lib- entrypoint.scss
 
 <==> input/entrypoint.scss
 @import "dependency";

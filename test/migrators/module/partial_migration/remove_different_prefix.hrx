@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --remove-prefix=prefix- --forward=prefixed
+--migrate-deps --remove-prefix=prefix- --forward=prefixed entrypoint.scss
 
 <==> input/entrypoint.scss
 @import "library";

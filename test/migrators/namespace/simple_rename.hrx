@@ -1,5 +1,6 @@
 <==> arguments
 --rename 'a to b'
+entrypoint.scss
 
 <==> input/entrypoint.scss
 @use "meta";

@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --load-path load-path --load-path .
+--migrate-deps --load-path load-path --load-path .  entrypoint/in/a/subdirectory.scss
 
 <==> README.md
 This test is for a combination of edge cases where an orphan import-only file

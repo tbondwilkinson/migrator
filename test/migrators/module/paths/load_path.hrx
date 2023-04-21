@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --load-path a/b/c
+--migrate-deps --load-path a/b/c entrypoint.scss
 
 <==> input/entrypoint.scss
 @import "dependency";

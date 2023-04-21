@@ -1,5 +1,6 @@
 <==> arguments
---remove-prefix=lib-
+--remove-prefix=lib- entrypoint.scss
+
 <==> input/entrypoint.scss
 $lib_variable_with_underscores: green;
 

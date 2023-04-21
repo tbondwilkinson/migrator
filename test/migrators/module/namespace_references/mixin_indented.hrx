@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps
+--migrate-deps entrypoint.sass
 
 <==> README.md
 This test should be kept in sync with mixin.hrx.

@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --remove-prefix=lib- --forward=prefixed
+--migrate-deps --remove-prefix=lib- --forward=prefixed entrypoint.scss
 
 <==> input/entrypoint.scss
 @import "button";

@@ -1,5 +1,6 @@
 <==> arguments
---migrate-deps
+--migrate-deps entrypoint.scss
+
 <==> input/entrypoint.scss
 @import "library";
 a {

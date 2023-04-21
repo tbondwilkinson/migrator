@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps
+--migrate-deps entrypoint.scss
 
 <==> README.md
 This test should be kept in sync with mixin_indented.hrx.

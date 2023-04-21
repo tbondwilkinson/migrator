@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps
+--migrate-deps entrypoint.scss
 
 <==> README
 We test a variety of whitespace here to ensure that the span that contains the

@@ -1,3 +1,6 @@
+<==> arguments
+entrypoint.scss
+
 <==> input/entrypoint.scss
 :foo(#{6/3}) {
   b: 6px / 3px;

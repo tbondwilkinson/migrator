@@ -1,3 +1,6 @@
+<==> arguments
+entrypoint.scss
+
 <==> input/entrypoint.scss
 @use "sass:math" as *;
 @use "sass:list" as other-namespace;

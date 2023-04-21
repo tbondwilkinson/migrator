@@ -1,5 +1,5 @@
 <==> arguments
---remove-prefix=lib-
+--remove-prefix=lib- entrypoint.scss
 
 <==> README.md
 This test should be kept in sync with basic_indented.hrx.

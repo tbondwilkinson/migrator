@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps
+--migrate-deps entrypoint.scss
 
 <==> README.md
 This test ensures that `@forward` rules in an import-only file is bypassed,

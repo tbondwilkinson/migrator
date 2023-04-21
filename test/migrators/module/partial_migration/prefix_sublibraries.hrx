@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps
+--migrate-deps entrypoint_monolithic.scss entrypoint_sublibraries.scss
 
 <==> README
 Tests migration of users of a library with sublibraries that's already been

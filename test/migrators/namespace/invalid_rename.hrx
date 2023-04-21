@@ -1,5 +1,6 @@
 <==> arguments
 --rename invalid
+entrypoint.scss
 
 <==> input/entrypoint.scss
 // nothing

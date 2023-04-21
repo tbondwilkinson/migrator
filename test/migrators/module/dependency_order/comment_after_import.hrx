@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps
+--migrate-deps entrypoint.scss
 
 <==> README
 This test makes sure that comments after an `@import` are not mangled when an

@@ -2,6 +2,7 @@
 --rename 'a to x'
 --rename 'b to y'
 --rename 'c to z'
+entrypoint.scss
 
 <==> input/entrypoint.scss
 @use "a"; // default -> as

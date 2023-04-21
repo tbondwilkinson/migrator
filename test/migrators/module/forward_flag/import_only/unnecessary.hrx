@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --forward=import-only
+--migrate-deps --forward=import-only entrypoint.scss
 
 <==> README.md
 This text confirms that import-only files are only generated when they're

@@ -1,6 +1,7 @@
 <==> arguments
 --rename 'library.* to library'
 --force
+entrypoint.scss
 
 <==> input/entrypoint.scss
 @use "library-a";

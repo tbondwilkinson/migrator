@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --verbose
+--migrate-deps --verbose entrypoint.scss
 
 <==> input/entrypoint.scss
 @import "does_not_exist";

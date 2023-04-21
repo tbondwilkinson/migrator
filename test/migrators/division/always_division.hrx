@@ -1,5 +1,5 @@
 <==> arguments
---pessimistic --no-multiplication
+--pessimistic --no-multiplication entrypoint.scss
 
 <==> input/entrypoint.scss
 @function six-divided-by-three() {

@@ -1,5 +1,5 @@
 <==> arguments
---remove-prefix=lib-
+--remove-prefix=lib- entrypoint/_index.scss
 
 <==> input/entrypoint/_index.scss
 $lib-a: 5;

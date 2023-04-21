@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --remove-prefix=lib- --forward=import-only
+--migrate-deps --remove-prefix=lib- --forward=import-only entrypoint1.scss entrypoint2.scss
 
 <==> input/entrypoint1.scss
 @import "entrypoint2";

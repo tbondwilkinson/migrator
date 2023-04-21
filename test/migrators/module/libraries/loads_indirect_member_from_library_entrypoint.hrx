@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps
+--migrate-deps entrypoint.scss
 
 <==> README
 We have to generate a new `@use` for the variable reference in `_other.scss`. We

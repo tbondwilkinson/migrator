@@ -1,5 +1,5 @@
 <==> arguments
---remove-prefix=foo-,bar-,foo-bar-
+--remove-prefix=foo-,bar-,foo-bar- entrypoint.scss
 
 <==> input/entrypoint.scss
 $foo-var: 1;

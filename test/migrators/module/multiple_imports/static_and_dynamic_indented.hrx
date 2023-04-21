@@ -1,3 +1,6 @@
+<==> arguments
+entrypoint.sass
+
 <==> input/entrypoint.sass
 @import "one", "two.css", "three", "http://four"
 

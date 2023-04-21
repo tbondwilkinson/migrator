@@ -1,5 +1,5 @@
 <==> arguments
---migrate-deps --forward=all --load-path=load-path
+--migrate-deps --forward=all --load-path=load-path entrypoint.scss
 
 <==> README
 This is designed to test the order of `@use` and `@forward` rules from multiple
